@@ -40,5 +40,5 @@ DegreeWorks is helpful but not perfect. If something looks wrong, contact advisi
 - a list of courses you believe satisfy each requirement
 
 ## Official requirements (authoritative)
-- BA requirements (catalog): {{BU_ACADEMIC_GUIDE_MATH_BA}}
-- BS requirements (catalog): {{BU_ACADEMIC_GUIDE_MATH_BS}}
+- BA requirements: [Academic Guide -- BA]({{BU_ACADEMIC_GUIDE_MATH_BA}})
+- BS requirements: [Academic Guide -- BS]({{BU_ACADEMIC_GUIDE_MATH_BS}})

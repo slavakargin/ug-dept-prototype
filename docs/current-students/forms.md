@@ -36,5 +36,5 @@ Use when you want to switch between tracks within Mathematical Sciences (e.g., M
 - Allow time for review—do not wait until the add/drop deadline if possible.
 
 ## Authoritative requirements (for reference)
-- BA requirements (catalog): {{BU_ACADEMIC_GUIDE_MATH_BA}}
-- BS requirements (catalog): {{BU_ACADEMIC_GUIDE_MATH_BS}}
+- BA requirements: [Academic Guide -- BA]({{BU_ACADEMIC_GUIDE_MATH_BA}})
+- BS requirements: [Academic Guide -- BS]({{BU_ACADEMIC_GUIDE_MATH_BS}})

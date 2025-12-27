@@ -4,7 +4,7 @@ Last reviewed: 2025-12-24
 
 # Degree planning
 
-This page focuses on **planning and sequencing** (what to take when). For stable track descriptions, see {{UNIV_UG_LANDING}}.
+This page focuses on **planning and sequencing** (what to take when). For stable track descriptions, see [BU Track Descriptions]({{UNIV_UG_LANDING}}).
 
 ## Step 1: Identify your track and goals
 - Track: Mathematics / Actuarial Science / Data Science & Statistics
@@ -12,8 +12,8 @@ This page focuses on **planning and sequencing** (what to take when). For stable
 
 ## Step 2: Check the official requirements
 Use the catalog/Academic Guide as the authoritative source:
-- BA requirements: {{BU_ACADEMIC_GUIDE_MATH_BA}}
-- BS requirements: {{BU_ACADEMIC_GUIDE_MATH_BS}}
+- BA requirements: [Academic Guide -- BA]({{BU_ACADEMIC_GUIDE_MATH_BA}})
+- BS requirements: [Academic Guide -- BS]({{BU_ACADEMIC_GUIDE_MATH_BS}})
 
 ## Step 3: Build a semester-by-semester plan
 A good plan should:
@@ -22,8 +22,7 @@ A good plan should:
 - include at least 2–3 “backup” electives (in case of scheduling conflicts)
 
 ### Sample 4-year plan templates
-Harpur Advising maintains 4-year plan templates:
-- Templates hub: {{BU_HARPUR_MAJOR_MINOR_ADVISING_TEMPLATES}}
+Harpur Advising maintains 4-year plan templates:[Templates Hub]({{BU_HARPUR_MAJOR_MINOR_ADVISING_TEMPLATES}})
 
 (If you maintain department planning sheets, link them here.)
 

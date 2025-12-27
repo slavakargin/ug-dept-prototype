@@ -31,9 +31,9 @@ For **program overview and track descriptions** (stable content), see {{UNIV_UG_
 
 ## Quick links
 
-- **BA requirements (official):** {{BU_ACADEMIC_GUIDE_MATH_BA}}
-- **BS requirements (official):** {{BU_ACADEMIC_GUIDE_MATH_BS}}
-- **4+1 / accelerated programs:** {{BU_ACCELERATED_DEGREE_PROGRAMS}}
+- **BA requirements (official):** [Academic Guide -- BA]({{BU_ACADEMIC_GUIDE_MATH_BA}})
+- **BS requirements (official):** [Academic Guide -- BS] ({{BU_ACADEMIC_GUIDE_MATH_BS}})
+- **4+1 / accelerated programs:** [4+1 Program]({{BU_ACCELERATED_DEGREE_PROGRAMS}})
 
 ---
 
