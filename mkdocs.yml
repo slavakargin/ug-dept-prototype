@@ -3,6 +3,7 @@ site_description: "Department-side prototype for advising, forms, and degree pla
 site_author: "Binghamton University Department of Mathematical Sciences (draft)"
 site_url: https://slavakargin.github.io/ug-dept-prototype/
 
+docs_dir: docs_gen
 theme:
   name: readthedocs
 
