@@ -28,8 +28,6 @@ As a rule:
 
 ## Local preview
 
-(Choose one; fill in once you decide.)
-
 ### If this repo uses MkDocs
 ```bash
 python3 -m venv .venv

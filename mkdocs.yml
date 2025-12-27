@@ -1,0 +1,25 @@
+site_name: "Math UG — Current Students Hub (Prototype)"
+site_description: "Department-side prototype for advising, forms, and degree planning (dynamic content)."
+site_author: "Binghamton University Department of Mathematical Sciences (draft)"
+site_url: https://slavakargin.github.io/ug-dept-prototype/
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+
+nav:
+  - Home: index.md
+
+  - Current students:
+      - Advising: current-students/advising.md
+      - Forms & petitions: current-students/forms.md
+      - Degree planning: current-students/degree-planning.md
+      - Policies & logistics: current-students/policies.md
