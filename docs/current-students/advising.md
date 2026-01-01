@@ -21,6 +21,7 @@ This page is for **current Mathematical Sciences majors/minors** seeking advisin
 
 ## How to prepare for an advising meeting
 Bring (or email ahead of time):
+
 - Your current plan (what you’ve taken + what you plan next)
 - Questions you want answered
 - Any relevant documents (transfer syllabi, unofficial transcript, DegreeWorks notes)
@@ -28,6 +29,7 @@ Bring (or email ahead of time):
 ## Common questions
 ### “What should I take next?”
 Usually depends on your current level:
+
 - Early stage: calculus sequence + linear algebra
 - Mid stage: core proof/upper-level gateways (varies by track)
 - Late stage: electives aligned with goals (grad school, industry, teaching)
@@ -36,6 +38,7 @@ Usually depends on your current level:
 
 ### “DegreeWorks doesn’t match what I expect”
 DegreeWorks is helpful but not perfect. If something looks wrong, contact advising and include:
+
 - screenshots of the relevant blocks
 - a list of courses you believe satisfy each requirement
 
