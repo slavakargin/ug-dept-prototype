@@ -4,7 +4,7 @@
 
 This site is the **department-maintained hub for current Mathematical Sciences students**: advising, forms, degree planning, and other information that changes over time.
 
-For **program overview and track descriptions** (stable content), see {{UNIV_UG_LANDING}}.
+For **program overview and track descriptions** (stable content), see [University Site]({{UNIV_TRACKS_INDEX}}).
 
 ---
 

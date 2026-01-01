@@ -3,10 +3,19 @@
 ```yaml
 - id: UNIV_UG_LANDING
   url: https://slavakargin.github.io/ug-university-prototype/
-  scope: ug-internal
+  scope: university-internal
   why: University-side prototype landing page for stable UG content.
   owner: Math UG Program
-  last_checked: 2025-12-24
+  last_checked: 2026-01-01
+
+  - id: UNIV_TRACKS_INDEX
+  url: https://slavakargin.github.io/ug-university-prototype/tracks/
+  prototype: https://slavakargin.github.io/ug-university-prototype/tracks/
+  production: null
+  scope: university-internal
+  why: University-side page for Math tracks.
+  owner: Math UG Program
+  last_checked: 2026-01-01
 
 - id: BU_ACADEMIC_GUIDE_MATH_BA
   url: https://catalog.binghamton.edu/preview_program.php?catoid=5&poid=1025&returnto=209
